@@ -1,0 +1,5 @@
+{
+  "name": "Polytope Explorer",
+  "description": "An AI chatbot that answers questions about polytopes using specific wikis and Google Search.",
+  "requestFramePermissions": []
+}
